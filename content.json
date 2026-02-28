@@ -1,0 +1,101 @@
+{
+  "site": {
+    "title": "BETESHIG studios"
+  },
+  "nav": {
+    "links": [
+      { "label": "ABOUT", "href": "#about" },
+      { "label": "GAMES", "href": "#games" },
+      { "label": "CONTACT", "href": "#contact" }
+    ]
+  },
+  "hero": {
+    "tagline": "",
+    "cta": "See What We're About"
+  },
+  "about": {
+    "title": "ABOUT US",
+    "subtitle": "Small studio. Weird ideas. Serious games.",
+    "slides": [
+      {
+        "text": "BETESHIG studios is an indie game studio driven by a simple belief: great games come from spite, snacks, and an unhealthy attachment to pixel art. We've spent time honing our skills and building our voice — and now we're respawning as a real studio.<br><br>We build with Godot, create art in Aseprite, and craft 3D assets in Blender.",
+        "type": "image",
+        "src": "assets/pics/beteshig_team.jpeg",
+        "alt": "The Beteshig team"
+      },
+      {
+        "text": "Engineering — Adi wrangles code, fights physics engines, and somehow turns spaghetti into shipping software. If it runs, he built it. If it crashes, he's already fixing it.",
+        "type": "image",
+        "src": "assets/pics/adi.jpeg",
+        "alt": "Adi — Engineering"
+      },
+      {
+        "text": "Art Direction — Mircea turns vague ideas into pixels that slap. From character sprites to full environments, if it looks good, it's because he wouldn't let it not.",
+        "type": "image",
+        "src": "assets/pics/mircea.jpeg",
+        "alt": "Mircea — Art Direction"
+      },
+      {
+        "text": "5 games, 5 genres, zero sensible ideas. We've been shipping since 2024 and we're not slowing down — every project starts as a wild \"what if\" and somehow ends up on itch.io before anyone can stop us.",
+        "type": "stats",
+        "stats": [
+          { "number": "5", "label": "Games Shipped" },
+          { "number": "5", "label": "Genres Explored" },
+          { "number": "'24", "label": "Active Since" },
+          { "number": "100%", "label": "Pixel Art" }
+        ]
+      }
+    ]
+  },
+  "games": {
+    "title": "OUR GAMES",
+    "subtitle": "Worlds waiting to be discovered. Each project is a new adventure.",
+    "items": [
+      {
+        "title": "Layover: Game Over",
+        "tag": "Arcade",
+        "description": "A WarioWare-style game with more than a dozen micro-game blitzes set in the world's most inexplicable airports.",
+        "url": "https://adisuciu.itch.io/layover-game-over",
+        "image": "assets/games/LayoverGameOver/SplashScreenLogo.png"
+      },
+      {
+        "title": "One Shot to Valhalla",
+        "tag": "Tower Defense",
+        "description": "An Overcooked-style tower defense where you play as Magnus Drunkesson, a drunken Viking defending his closet from skeleton invaders.",
+        "url": "https://adisuciu.itch.io/one-shot-to-valhalla",
+        "image": "assets/games/OneShotToValhalla/cover_image.png"
+      },
+      {
+        "title": "Flatroads",
+        "tag": "Construction",
+        "description": "Top-down retro road construction game. Help Rookie fix the bridge after a hurricane.",
+        "url": "https://adisuciu.itch.io/flatroads",
+        "image": "assets/games/Flatroads/Promo.png"
+      },
+      {
+        "title": "Gravitaxi",
+        "tag": "Puzzle",
+        "description": "Defeat gravity as a taxi driver from a futuristic dubious collective of transporters.",
+        "url": "https://adisuciu.itch.io/gravitaxi",
+        "image": "assets/games/Gravitaxi/Promo.png"
+      },
+      {
+        "title": "Tales of Anunaki",
+        "tag": "Adventure",
+        "description": "Anunaki, the creator of planets, was cruising in his BLEEPBARG when the unthinkable happened: it stopped bleeping and barging.",
+        "url": "https://adisuciu.itch.io/tales-of-anunaki",
+        "image": "assets/games/TalesOfAnunaki/Promo.png"
+      }
+    ]
+  },
+  "footer": {
+    "email": "hello@beteshigstudios.com",
+    "copyright": "2026 BETESHIG studios. All rights reserved.",
+    "socials": [
+      { "label": "Twitter / X", "url": "https://x.com/beteshigstudios", "img": "assets/links/x-logo/logo-white.png" },
+{ "label": "YouTube", "url": "https://www.youtube.com/@beteshigstudios", "img": "assets/links/YouTube_Icon/Digital/03 White/yt_icon_white_digital.png" },
+      { "label": "GitHub", "url": "https://github.com/beteshigstudios", "img": "assets/links/GitHub Logos/PNG/GitHub_Invertocat_White.png" },
+      { "label": "itch.io", "url": "https://adisuciu.itch.io", "img": "assets/links/Itchio/logos/itchio-logo-textless-white.png" }
+    ]
+  }
+}

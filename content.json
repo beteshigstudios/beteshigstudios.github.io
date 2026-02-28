@@ -94,7 +94,7 @@
     "socials": [
       { "label": "Twitter / X", "url": "https://x.com/beteshigstudios", "img": "assets/links/x-logo/logo-white.png" },
 { "label": "YouTube", "url": "https://www.youtube.com/@beteshigstudios", "img": "assets/links/YouTube_Icon/Digital/03 White/yt_icon_white_digital.png" },
-      { "label": "GitHub", "url": "https://github.com/beteshigstudios", "img": "assets/links/GitHub Logos/PNG/GitHub_Invertocat_White.png" },
+      { "label": "GitHub", "url": "https://github.com/beteshig", "img": "assets/links/GitHub Logos/PNG/GitHub_Invertocat_White.png" },
       { "label": "itch.io", "url": "https://adisuciu.itch.io", "img": "assets/links/Itchio/logos/itchio-logo-textless-white.png" }
     ]
   }
